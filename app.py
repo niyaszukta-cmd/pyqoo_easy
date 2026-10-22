@@ -371,11 +371,11 @@ LIFE_A["safety"] = [
      [("😋", "Eat them", "കഴിക്കും"), ("👩", "Tell a grown-up", "വലിയവരോട് പറയും"), ("🗑️", "Throw them", "കളയും")], 1, "Never eat medicine on your own. Tell a grown-up.", "ഗുളിക തനിയെ കഴിക്കരുത്. വലിയവരോട് പറയണം."),
     ("🧑‍🦱", "A stranger offers you sweets and says come with me. What do you do?", "അറിയാത്ത ഒരാൾ മിഠായി തന്ന് കൂടെ വരാൻ പറഞ്ഞു. എന്ത് ചെയ്യും?",
      [("🚶", "Go with him", "കൂടെ പോകും"), ("🏃", "Say no, go to a trusted grown-up", "വേണ്ടെന്ന് പറഞ്ഞ് വീട്ടുകാരുടെ അടുത്തേക്ക് പോകും"), ("🍬", "Take the sweet", "മിഠായി വാങ്ങും")], 1, "Say no and go to someone you trust.", "വേണ്ടെന്ന് പറഞ്ഞ് വിശ്വാസമുള്ളവരുടെ അടുത്തേക്ക് പോകണം."),
-    ("🌊", "You are near deep water. What is safe?", "ആഴമുള്ള വെള്ളത്തിന്റെ അടുത്താണ്. എന്താണ് സുരക്ഷിതം?",
+    ("🌊", "You are near deep water. What is safe?", "ആഴമുള്ള വെള്ളത്തിന്റെ അടുത്താണ്. എന്താ സുരക്ഷിതം?",
      [("🏊", "Jump in alone", "തനിയെ ചാടും"), ("👨‍👩‍👧", "Stay with a grown-up", "വലിയവരുടെ കൂടെ നിൽക്കും"), ("🏃", "Run on the edge", "അരികിൽ കൂടി ഓടും")], 1, "Stay with a grown-up near water.", "വെള്ളത്തിനടുത്ത് വലിയവരുടെ കൂടെ നിൽക്കണം."),
     ("🔌", "You see a plug socket. What do you do?", "ഒരു പ്ലഗ് സോക്കറ്റ് കണ്ടു. എന്ത് ചെയ്യും?",
      [("☝️", "Poke it with a finger", "വിരൽ ഇടും"), ("🙅", "Do not touch it", "തൊടില്ല"), ("🔧", "Put a key in", "താക്കോൽ ഇടും")], 1, "Electricity is dangerous. Do not touch sockets.", "കറന്റ് അപകടമാണ്. സോക്കറ്റിൽ തൊടരുത്."),
-    ("🚗", "In a car, what do we wear?", "കാറിൽ പോകുമ്പോൾ എന്താണ് ധരിക്കേണ്ടത്?",
+    ("🚗", "In a car, what do we wear?", "കാറിൽ പോകുമ്പോൾ എന്താ ധരിക്കേണ്ടത്?",
      [("💺", "Seat belt", "സീറ്റ് ബെൽറ്റ്"), ("🧢", "A cap", "തൊപ്പി"), ("🧤", "Gloves", "കയ്യുറ")], 0, "A seat belt keeps us safe.", "സീറ്റ് ബെൽറ്റ് നമ്മളെ സുരക്ഷിതരാക്കും."),
     ("🏍️", "On a bike, what must we wear on the head?", "ബൈക്കിൽ പോകുമ്പോൾ തലയിൽ എന്ത് വയ്ക്കണം?",
      [("🪖", "Helmet", "ഹെൽമെറ്റ്"), ("🧢", "Cap", "തൊപ്പി"), ("👓", "Glasses", "കണ്ണട")], 0, "A helmet protects the head.", "ഹെൽമെറ്റ് തലയെ സംരക്ഷിക്കും."),
@@ -383,7 +383,7 @@ LIFE_A["safety"] = [
      [("🏃", "Run outside", "പുറത്തേക്ക് ഓടും"), ("🧍", "Stay and ask a shop worker for help", "അവിടെത്തന്നെ നിന്ന് കടയിലെ ആളോട് സഹായം ചോദിക്കും"), ("😭", "Hide", "ഒളിച്ചിരിക്കും")], 1, "Stay still and ask a helper for help.", "അവിടെത്തന്നെ നിന്ന് സഹായം ചോദിക്കണം."),
     ("📞", "Which number do we call for an ambulance in India?", "ആംബുലൻസിന് ഏത് നമ്പറിലാണ് വിളിക്കേണ്ടത്?",
      [("1️⃣", "108", "108"), ("2️⃣", "420", "420"), ("3️⃣", "555", "555")], 0, "108 is the ambulance number.", "ആംബുലൻസിന്റെ നമ്പർ 108 ആണ്."),
-    ("🔪", "A knife is on the table. Who should use it?", "മേശപ്പുറത്ത് ഒരു കത്തിയുണ്ട്. ആരാണ് ഉപയോഗിക്കേണ്ടത്?",
+    ("🔪", "A knife is on the table. Who should use it?", "മേശപ്പുറത്ത് ഒരു കത്തിയുണ്ട്. ആരാ ഉപയോഗിക്കേണ്ടത്?",
      [("👶", "Baby", "കുഞ്ഞ്"), ("👩", "A grown-up", "വലിയവർ"), ("🧒", "Me alone", "ഞാൻ തനിയെ")], 1, "Sharp things are for grown-ups.", "മൂർച്ചയുള്ളവ വലിയവർ ഉപയോഗിക്കണം."),
     ("🐕", "A strange dog is barking at you. What do you do?", "ഒരു അപരിചിത പട്ടി കുരയ്ക്കുന്നു. എന്ത് ചെയ്യും?",
      [("🏃", "Throw a stone", "കല്ലെറിയും"), ("🧍", "Stay calm and walk away slowly", "പേടിക്കാതെ പതുക്കെ മാറിപ്പോകും"), ("😱", "Scream and run", "അലറി ഓടും")], 1, "Stay calm, do not tease it, walk away slowly.", "ശാന്തമായി നിന്ന് പതുക്കെ മാറിപ്പോകണം."),
@@ -392,21 +392,21 @@ LIFE_A["safety"] = [
 ]
 
 LIFE_A["signs"] = [
-    ("🛑", "What does this sign say?", "ഈ അടയാളം എന്താണ് പറയുന്നത്?",
+    ("🛑", "What does this sign say?", "ഈ അടയാളം എന്താ പറയുന്നത്?",
      [("✋", "Stop", "നിൽക്കൂ"), ("🏃", "Go fast", "വേഗം പോകൂ"), ("🎉", "Party", "പാർട്ടി")], 0, "A red octagon means stop.", "ചുവന്ന അഷ്ടഭുജം 'നിൽക്കൂ' എന്നാണ്."),
-    ("🚭", "What does this sign say?", "ഈ അടയാളം എന്താണ് പറയുന്നത്?",
+    ("🚭", "What does this sign say?", "ഈ അടയാളം എന്താ പറയുന്നത്?",
      [("🚬", "Smoke here", "ഇവിടെ പുകവലിക്കാം"), ("🙅", "No smoking", "പുകവലി പാടില്ല"), ("🍽️", "Eat here", "ഇവിടെ കഴിക്കാം")], 1, "No smoking.", "പുകവലി പാടില്ല."),
     ("🚸", "This sign shows children walking. What should drivers do?", "ഈ അടയാളം കുട്ടികൾ നടക്കുന്നത് കാണിക്കുന്നു. ഡ്രൈവർ എന്ത് ചെയ്യണം?",
      [("🐢", "Go slowly", "പതുക്കെ പോകണം"), ("🏎️", "Go fast", "വേഗത്തിൽ പോകണം"), ("📣", "Honk loudly", "ഉറക്കെ ഹോൺ അടിക്കണം")], 0, "Slow down near children.", "കുട്ടികളുടെ അടുത്ത് വേഗത കുറയ്ക്കണം."),
-    ("🚻", "Where do you see this sign?", "ഈ അടയാളം എവിടെയാണ് കാണുക?",
+    ("🚻", "Where do you see this sign?", "ഈ അടയാളം എവിടെയാ കാണുക?",
      [("🍳", "Kitchen", "അടുക്കള"), ("🚽", "Toilet", "ടോയ്‌ലറ്റ്"), ("🛏️", "Bedroom", "കിടപ്പുമുറി")], 1, "This sign shows the toilets.", "ഇത് ടോയ്‌ലറ്റിന്റെ അടയാളമാണ്."),
-    ("⚠️", "A yellow triangle with ! means what?", "മഞ്ഞ ത്രികോണത്തിലെ ! എന്താണ് അർത്ഥമാക്കുന്നത്?",
+    ("⚠️", "A yellow triangle with ! means what?", "മഞ്ഞ ത്രികോണത്തിലെ ! എന്താ അർത്ഥമാക്കുന്നത്?",
      [("⚠️", "Be careful", "സൂക്ഷിക്കൂ"), ("🎁", "Gift", "സമ്മാനം"), ("🍕", "Food", "ഭക്ഷണം")], 0, "It is a warning sign.", "ഇത് മുന്നറിയിപ്പ് അടയാളമാണ്."),
-    ("🆘", "What does SOS or a red cross mean?", "SOS അല്ലെങ്കിൽ ചുവന്ന ക്രോസ് എന്താണ് അർത്ഥമാക്കുന്നത്?",
+    ("🆘", "What does SOS or a red cross mean?", "SOS അല്ലെങ്കിൽ ചുവന്ന ക്രോസ് എന്താ അർത്ഥമാക്കുന്നത്?",
      [("🩺", "Help or first aid", "സഹായം അല്ലെങ്കിൽ പ്രഥമശുശ്രൂഷ"), ("🎮", "Games", "കളികൾ"), ("🛍️", "Shopping", "ഷോപ്പിങ്")], 0, "Red cross means help for the hurt.", "ചുവന്ന ക്രോസ് സഹായത്തിന്റെ അടയാളമാണ്."),
     ("➡️", "The arrow points right. Which way do we go?", "അമ്പടയാളം വലത്തോട്ടാണ്. ഏത് വഴിക്ക് പോകണം?",
      [("⬅️", "Left", "ഇടത്തോട്ട്"), ("➡️", "Right", "വലത്തോട്ട്"), ("⬆️", "Straight", "നേരെ")], 1, "Follow the arrow to the right.", "അമ്പടയാളം പോലെ വലത്തോട്ട് പോകണം."),
-    ("🚫", "A red circle with a line across means?", "വരയുള്ള ചുവന്ന വൃത്തം എന്താണ് അർത്ഥമാക്കുന്നത്?",
+    ("🚫", "A red circle with a line across means?", "വരയുള്ള ചുവന്ന വൃത്തം എന്താ അർത്ഥമാക്കുന്നത്?",
      [("🚫", "Not allowed", "അനുവദനീയമല്ല"), ("✅", "Allowed", "അനുവദനീയം"), ("🎈", "Balloon", "ബലൂൺ")], 0, "It means not allowed.", "ഇത് 'പാടില്ല' എന്നാണ്."),
 ]
 
@@ -419,17 +419,17 @@ LIFE_A["routine"] = [
      [("🧼", "Wash hands with soap", "സോപ്പിട്ട് കൈ കഴുകണം"), ("🍪", "Eat a biscuit", "ബിസ്കറ്റ് കഴിക്കണം"), ("🎒", "Pack the bag", "ബാഗ് എടുക്കണം")], 0, "Always wash hands after the toilet.", "ടോയ്‌ലറ്റിൽ പോയാൽ എപ്പോഴും കൈ കഴുകണം."),
     ("🌙", "At night, before bed, what do we do?", "രാത്രി ഉറങ്ങുന്നതിന് മുമ്പ് എന്ത് ചെയ്യണം?",
      [("🪥", "Brush teeth", "പല്ല് തേയ്ക്കണം"), ("☕", "Drink strong tea", "ചായ കുടിക്കണം"), ("🏏", "Play cricket", "ക്രിക്കറ്റ് കളിക്കണം")], 0, "Brush teeth before bed.", "ഉറങ്ങുന്നതിന് മുമ്പ് പല്ല് തേയ്ക്കണം."),
-    ("🌧️", "It is raining and you go out. What do you take?", "മഴയത്ത് പുറത്ത് പോകുമ്പോൾ എന്താണ് എടുക്കേണ്ടത്?",
+    ("🌧️", "It is raining and you go out. What do you take?", "മഴയത്ത് പുറത്ത് പോകുമ്പോൾ എന്താ എടുക്കേണ്ടത്?",
      [("☂️", "Umbrella", "കുട"), ("🧣", "Scarf", "ഷാൾ"), ("🕶️", "Sunglasses", "കൂളിംഗ് ഗ്ലാസ്")], 0, "An umbrella keeps us dry.", "കുട നനയാതെ കാക്കും."),
-    ("🥵", "It is very hot. What should we drink?", "നല്ല ചൂടാണ്. എന്താണ് കുടിക്കേണ്ടത്?",
+    ("🥵", "It is very hot. What should we drink?", "നല്ല ചൂടാണ്. എന്താ കുടിക്കേണ്ടത്?",
      [("💧", "Water", "വെള്ളം"), ("🔥", "Hot oil", "ചൂടുള്ള എണ്ണ"), ("🧴", "Shampoo", "ഷാംപൂ")], 0, "Drink water when it is hot.", "ചൂടുള്ളപ്പോൾ വെള്ളം കുടിക്കണം."),
-    ("🛁", "Which one do we use for a bath?", "കുളിക്കാൻ എന്താണ് ഉപയോഗിക്കുക?",
+    ("🛁", "Which one do we use for a bath?", "കുളിക്കാൻ എന്താ ഉപയോഗിക്കുക?",
      [("🧼", "Soap and water", "സോപ്പും വെള്ളവും"), ("🍫", "Chocolate", "ചോക്ലേറ്റ്"), ("📖", "Book", "പുസ്തകം")], 0, "Soap and water clean us.", "സോപ്പും വെള്ളവും കൊണ്ട് വൃത്തിയാകാം."),
-    ("🗑️", "Where does the waste paper go?", "പഴയ കടലാസ് എവിടെയാണ് ഇടേണ്ടത്?",
+    ("🗑️", "Where does the waste paper go?", "പഴയ കടലാസ് എവിടെയാ ഇടേണ്ടത്?",
      [("🗑️", "In the dustbin", "ചവറ്റുകുട്ടയിൽ"), ("🛣️", "On the road", "റോഡിൽ"), ("🛏️", "On the bed", "കട്ടിലിൽ")], 0, "Put waste in the dustbin.", "ചവറ് ചവറ്റുകുട്ടയിൽ ഇടണം."),
     ("🎒", "What do we take to school?", "സ്കൂളിൽ പോകുമ്പോൾ എന്ത് കൊണ്ടുപോകും?",
      [("🎒", "School bag", "സ്കൂൾ ബാഗ്"), ("🛏️", "Bed", "കട്ടിൽ"), ("🛋️", "Sofa", "സോഫ")], 0, "We carry books in a school bag.", "പുസ്തകങ്ങൾ സ്കൂൾ ബാഗിലാണ് കൊണ്ടുപോകുക."),
-    ("🍎", "Which food is good for our body?", "ശരീരത്തിന് നല്ല ഭക്ഷണം ഏതാണ്?",
+    ("🍎", "Which food is good for our body?", "ശരീരത്തിന് നല്ല ഭക്ഷണം ഏതാ?",
      [("🍎", "Fruits", "പഴങ്ങൾ"), ("🍬", "Only sweets", "മിഠായി മാത്രം"), ("🍟", "Only chips", "ചിപ്സ് മാത്രം")], 0, "Fruits and vegetables make us strong.", "പഴങ്ങളും പച്ചക്കറികളും നമ്മളെ ആരോഗ്യമുള്ളവരാക്കും."),
     ("👕", "Your shirt is dirty. What do you do?", "ഷർട്ട് അഴുക്കായി. എന്ത് ചെയ്യും?",
      [("🧺", "Put it in the wash basket", "അലക്കാൻ ഇടും"), ("🛏️", "Hide it under the bed", "കട്ടിലിനടിയിൽ ഒളിപ്പിക്കും"), ("🔥", "Burn it", "കത്തിക്കും")], 0, "Dirty clothes go to be washed.", "അഴുക്കായ തുണി അലക്കാൻ ഇടണം."),
@@ -487,9 +487,9 @@ LIFE_B["feelsit"] = [
 ]
 
 LIFE_B["money"] = [
-    ("🪙", "Which one is a coin?", "ഇതിൽ ഏതാണ് നാണയം?",
+    ("🪙", "Which one is a coin?", "ഇതിൽ ഏതാ നാണയം?",
      [("🪙", "Coin", "നാണയം"), ("📖", "Book", "പുസ്തകം"), ("🍎", "Apple", "ആപ്പിൾ")], 0, "A coin is round and metal.", "നാണയം വൃത്താകൃതിയിൽ ലോഹം കൊണ്ടുള്ളതാണ്."),
-    ("💵", "Which one is a note?", "ഇതിൽ ഏതാണ് നോട്ട്?",
+    ("💵", "Which one is a note?", "ഇതിൽ ഏതാ നോട്ട്?",
      [("🗒️", "Paper", "കടലാസ്"), ("💵", "Money note", "പണത്തിന്റെ നോട്ട്"), ("🍞", "Bread", "ബ്രെഡ്")], 1, "Money notes are paper money.", "നോട്ട് പണമാണ്."),
     ("🏪", "Where do we buy bread and biscuits?", "ബ്രെഡും ബിസ്കറ്റും എവിടെ നിന്ന് വാങ്ങും?",
      [("🏪", "Shop", "കടയിൽ നിന്ന്"), ("🏥", "Hospital", "ആശുപത്രിയിൽ നിന്ന്"), ("🏫", "School", "സ്കൂളിൽ നിന്ന്")], 0, "We buy from a shop.", "കടയിൽ നിന്നാണ് വാങ്ങുന്നത്."),
@@ -503,14 +503,14 @@ LIFE_B["money"] = [
      [("✅", "Yes", "പറ്റും"), ("❌", "No, not enough", "പറ്റില്ല, തികയില്ല"), ("🤷", "Cannot say", "അറിയില്ല")], 1, "2 is less than 5, so not enough.", "2, 5-നേക്കാൾ കുറവാണ്, അതുകൊണ്ട് തികയില്ല."),
     ("💰", "You found money on the road. What do you do?", "റോഡിൽ നിന്ന് പണം കിട്ടി. എന്ത് ചെയ്യും?",
      [("👩", "Give it to a grown-up", "വലിയവരെ ഏൽപ്പിക്കും"), ("🛍️", "Keep and spend it", "എടുത്ത് ചെലവാക്കും"), ("🏃", "Run away", "ഓടിപ്പോകും")], 0, "Tell a grown-up so the owner can be found.", "വലിയവരോട് പറഞ്ഞാൽ ഉടമയെ കണ്ടെത്താം."),
-    ("🏧", "Who keeps our money safe for us?", "നമ്മുടെ പണം സൂക്ഷിക്കാൻ ആരാണ് സഹായിക്കുന്നത്?",
+    ("🏧", "Who keeps our money safe for us?", "നമ്മുടെ പണം സൂക്ഷിക്കാൻ ആരാ സഹായിക്കുന്നത്?",
      [("🏦", "Bank", "ബാങ്ക്"), ("🏖️", "Beach", "കടപ്പുറം"), ("🌳", "Park", "പാർക്ക്")], 0, "A bank keeps money safe.", "ബാങ്ക് പണം സുരക്ഷിതമായി സൂക്ഷിക്കും."),
-    ("🛒", "You need milk. Which do you buy?", "പാല് വേണം. ഏതാണ് വാങ്ങുക?",
+    ("🛒", "You need milk. Which do you buy?", "പാല് വേണം. ഏതാ വാങ്ങുക?",
      [("🥛", "Milk packet", "പാൽ പാക്കറ്റ്"), ("🧼", "Soap", "സോപ്പ്"), ("🪥", "Brush", "ബ്രഷ്")], 0, "Milk packet is for milk.", "പാൽ പാക്കറ്റ് ആണ് പാലിന്."),
 ]
 
 LIFE_B["time"] = [
-    ("🌅", "When does the sun come up?", "സൂര്യൻ എപ്പോഴാണ് ഉദിക്കുന്നത്?",
+    ("🌅", "When does the sun come up?", "സൂര്യൻ എപ്പോഴാ ഉദിക്കുന്നത്?",
      [("🌅", "Morning", "രാവിലെ"), ("🌙", "Night", "രാത്രി"), ("🌆", "Evening", "വൈകുന്നേരം")], 0, "The sun rises in the morning.", "രാവിലെയാണ് സൂര്യൻ ഉദിക്കുന്നത്."),
     ("🌙", "When do we see the moon and stars?", "ചന്ദ്രനെയും നക്ഷത്രങ്ങളെയും എപ്പോൾ കാണാം?",
      [("☀️", "Noon", "ഉച്ചയ്ക്ക്"), ("🌙", "Night", "രാത്രി"), ("🌅", "Morning", "രാവിലെ")], 1, "We see them at night.", "രാത്രിയിലാണ് കാണുക."),
@@ -522,7 +522,7 @@ LIFE_B["time"] = [
      [("2️⃣", "Tuesday", "ചൊവ്വ"), ("🕐", "Sunday", "ഞായർ"), ("🎉", "Friday", "വെള്ളി")], 0, "Tuesday follows Monday.", "തിങ്കൾ കഴിഞ്ഞാൽ ചൊവ്വ."),
     ("🏫", "Which day do many schools have a holiday?", "മിക്ക സ്കൂളുകൾക്കും ഏത് ദിവസമാണ് അവധി?",
      [("🏖️", "Sunday", "ഞായർ"), ("📚", "Monday", "തിങ്കൾ"), ("📚", "Wednesday", "ബുധൻ")], 0, "Sunday is a holiday.", "ഞായറാഴ്ച അവധിയാണ്."),
-    ("🕰️", "What does a clock tell us?", "ക്ലോക്ക് എന്താണ് പറഞ്ഞുതരുന്നത്?",
+    ("🕰️", "What does a clock tell us?", "ക്ലോക്ക് എന്താ പറഞ്ഞുതരുന്നത്?",
      [("⏰", "The time", "സമയം"), ("🌡️", "The weather", "കാലാവസ്ഥ"), ("🎨", "Colours", "നിറങ്ങൾ")], 0, "A clock shows the time.", "ക്ലോക്ക് സമയം കാണിക്കുന്നു."),
     ("🌆", "The sun goes down and the sky is orange. It is ...", "സൂര്യൻ അസ്തമിക്കുന്നു, ആകാശം ഓറഞ്ച് നിറം. ഇത് ...",
      [("🌆", "Evening", "വൈകുന്നേരം"), ("🌅", "Morning", "രാവിലെ"), ("☀️", "Noon", "ഉച്ച")], 0, "Sunset is in the evening.", "അസ്തമയം വൈകുന്നേരമാണ്."),
@@ -531,7 +531,7 @@ LIFE_B["time"] = [
 LIFE_B["opposites"] = [
     ("⬆️", "What is the opposite of UP?", "മുകളിൽ എന്നതിന്റെ എതിരായത് ഏത്?",
      [("⬇️", "Down", "താഴെ"), ("➡️", "Right", "വലത്"), ("⬆️", "Up", "മുകളിൽ")], 0, "Up and down are opposites.", "മുകളിൽ, താഴെ എതിരാണ്."),
-    ("🐘", "An elephant is big. What is a mouse?", "ആന വലുതാണ്. എലി എങ്ങനെയാണ്?",
+    ("🐘", "An elephant is big. What is a mouse?", "ആന വലുതാണ്. എലി എങ്ങനെയാ?",
      [("🐭", "Small", "ചെറുത്"), ("🏔️", "Huge", "വലിയത്"), ("🌈", "Colourful", "നിറമുള്ളത്")], 0, "Big and small are opposites.", "വലുത്, ചെറുത് എതിരാണ്."),
     ("☀️", "Day is bright. What is night?", "പകൽ വെളിച്ചമാണ്. രാത്രി എങ്ങനെ?",
      [("🌑", "Dark", "ഇരുട്ട്"), ("🔥", "Hot", "ചൂട്"), ("💦", "Wet", "നനവ്")], 0, "Light and dark are opposites.", "വെളിച്ചം, ഇരുട്ട് എതിരാണ്."),
@@ -634,7 +634,7 @@ def picture_bank(cat):
         others = [opt(x) for j, x in enumerate(items) if j != i]
         me = opt(it)
         out.append(Q(cat, f"{i}f", "find", "pic", "", f_en.format(en=it[1].lower() if cat not in ("people", "helpers") else it[1].lower()), f_ml.format(ml=it[2]),
-                     [me], others, f"Yes! This is the {it[1].lower()}.", f"ശരിയാണ്! ഇത് {it[2]} ആണ്."))
+                     [me], others, f"Yes! This is the {it[1].lower()}.", f"ശരിയാ! ഇത് {it[2]} ആണ്."))
         out.append(Q(cat, f"{i}n", "name", "word", it[0], n_en, n_ml, [me], others, f"This is the {it[1].lower()}.", f"ഇത് {it[2]} ആണ്."))
     if cat in ODD:
         noun_en, noun_ml, alien = ODD[cat]
@@ -931,6 +931,16 @@ def export_json(name):
 _SOURCES['ml_ui'] = r'''
 # Malayalam interface text (spoken style). Key = the English sentence used in the app.
 UI = {
+    "Picture-first learning at your own speed": "ചിത്രം നോക്കി, നിന്റെ വേഗത്തിൽ പഠിക്കാം",
+    "Learner": "കുട്ടി",
+    "Teacher or parent": "ടീച്ചർ / വീട്ടുകാർ",
+    "← Home": "← ഹോം",
+    "{n} pictures": "{n} ചിത്രങ്ങൾ",
+    "{n} choices": "{n} ഓപ്ഷൻ",
+    "🎒 Lessons": "🎒 പാഠങ്ങൾ",
+    "Listen, then tap the picture.": "കേൾക്കൂ, എന്നിട്ട് ചിത്രം തൊടൂ.",
+    "Look, then tap the answer.": "നോക്കൂ, എന്നിട്ട് ഉത്തരം തൊടൂ.",
+    "Think, then tap the answer.": "ആലോചിക്കൂ, എന്നിട്ട് ഉത്തരം തൊടൂ.",
     "A few questions from everything you have learned. Questions you found tricky come back gently.": "പഠിച്ച കാര്യങ്ങളിൽ നിന്ന് കുറച്ച് ചോദ്യങ്ങൾ. ബുദ്ധിമുട്ട് തോന്നിയ ചോദ്യങ്ങൾ പതുക്കെ വീണ്ടും വരും.",
     "A parent, guardian or teacher is with me and agrees": "അച്ഛനോ അമ്മയോ ടീച്ചറോ എന്റെ കൂടെയുണ്ട്, അവർക്ക് സമ്മതമാണ്",
     "A private note about what works for this child": "ഈ കുട്ടിക്ക് എന്താണ് ഫലിക്കുന്നത് എന്നതിനെക്കുറിച്ച് ഒരു സ്വകാര്യ കുറിപ്പ്",
@@ -1008,8 +1018,8 @@ UI = {
     "This deletes all progress and photos for this learner. It cannot be undone.": "ഇത് ഈ കുട്ടിയുടെ എല്ലാ പുരോഗതിയും ഫോട്ടോകളും ഡിലീറ്റ് ചെയ്യും. തിരിച്ചെടുക്കാൻ പറ്റില്ല.",
     "Today we try": "ഇന്ന് നമുക്ക് ശ്രമിക്കാം",
     "Voice": "ശബ്ദം",
-    "Welcome back": "വീണ്ടും സ്വാഗതം",
-    "Welcome to <b>Pyqoo Easy</b>. Look, listen and tap. Learn at your own speed. There are no timers.": "<b>പിക്കൂ ഈസി</b>യിലേക്ക് സ്വാഗതം. നോക്കൂ, കേൾക്കൂ, തൊടൂ. നിങ്ങളുടെ വേഗത്തിൽ പഠിക്കാം. ടൈമറില്ല.",
+    "Welcome back": "വീണ്ടും കണ്ടതിൽ സന്തോഷം",
+    "Welcome to <b>Pyqoo Easy</b>. Look, listen and tap. Learn at your own speed. There are no timers.": "<b>പിക്കൂ ഈസി</b>യിലേക്ക് സ്വാഗതം. നോക്കൂ, കേൾക്കൂ, തൊടൂ. നിന്റെ വേഗത്തിൽ പഠിക്കാം. ടൈമറില്ല.",
     "Well done!": "കലക്കി!",
     "What is {q}?": "{q} എത്രയാ?",
     "Where should we start?": "എവിടെ നിന്ന് തുടങ്ങണം?",
@@ -1155,18 +1165,18 @@ import html
 import streamlit as st
 
 LIGHT = {
-    "bg": "#F3F8F6", "card": "#FFFFFF", "ink": "#16302C", "muted": "#566D68", "line": "#D9E6E2",
-    "brand": "#0B7A75", "brand-ink": "#FFFFFF", "brand-soft": "#DDF1EF",
-    "sun": "#F5A524", "sun-ink": "#3B2800", "sun-soft": "#FFF0D2",
-    "good": "#17803F", "good-soft": "#DEF3E5", "bad": "#B8430F", "bad-soft": "#FDE6DA",
-    "shadow": "0 8px 24px rgba(22,48,44,.08)", "scheme": "light",
+    "bg": "#F2F7F3", "card": "#FFFFFF", "ink": "#15302A", "muted": "#58716A", "line": "#D3E4D9",
+    "brand": "#5CB88A", "brand-ink": "#0B2A1E", "brand-soft": "#DDF1E6",
+    "sun": "#E8B04A", "sun-ink": "#3B2800", "sun-soft": "#FFF1D0",
+    "good": "#23804F", "good-soft": "#DDF3E6", "bad": "#B8430F", "bad-soft": "#FDE6DA",
+    "shadow": "0 6px 20px rgba(21,48,42,.08)", "scheme": "light",
 }
 DARK = {
-    "bg": "#0C1A19", "card": "#15292A", "ink": "#E8F3F0", "muted": "#9DB7B1", "line": "#27403F",
-    "brand": "#2FC1B8", "brand-ink": "#04211F", "brand-soft": "#17403F",
-    "sun": "#F7B63F", "sun-ink": "#2A1C00", "sun-soft": "#3A2E12",
-    "good": "#4BD08A", "good-soft": "#143A27", "bad": "#FF9B6B", "bad-soft": "#42241A",
-    "shadow": "0 8px 24px rgba(0,0,0,.35)", "scheme": "dark",
+    "bg": "#111B18", "card": "#1B2926", "ink": "#E6F2EB", "muted": "#9DB5AA", "line": "#2C4540",
+    "brand": "#63BE91", "brand-ink": "#0B2A1E", "brand-soft": "#22362F",
+    "sun": "#E8B04A", "sun-ink": "#2A1C00", "sun-soft": "#3A3320",
+    "good": "#63BE91", "good-soft": "#1F3B2E", "bad": "#FF9B6B", "bad-soft": "#42241A",
+    "shadow": "0 6px 20px rgba(0,0,0,.35)", "scheme": "dark",
 }
 
 
@@ -1308,11 +1318,43 @@ EXTRA_CSS = """
 .nk-goal{border-left:6px solid var(--sun)}
 .nk-photo{border-radius:22px;overflow:hidden}
 :root{--tile-h:7rem;--tile-e:3rem;--stack-h:4rem;--big:4.6rem}
+
+/* Pyqoo look: flat cards, mint accents, segmented controls, big picture tiles */
+.nk-hero{background:var(--card)!important;border:2px solid var(--line);color:var(--ink)}
+.nk-hero *{color:var(--ink)!important}
+.nk-hero small{opacity:1;color:var(--muted)!important}
+.pq-brand{display:flex;align-items:center;gap:14px}
+.pq-icon{width:58px;height:58px;border-radius:18px;background:var(--brand);display:grid;place-items:center;font-size:2rem;flex:none}
+.pq-name{font-family:'Baloo 2','Baloo Chettan 2','Noto Sans Malayalam',sans-serif;font-weight:800;font-size:1.9rem;line-height:1.05;color:var(--ink)}
+.pq-tag{color:var(--muted);font-size:.95rem;margin-top:2px}
+[class*="st-key-ns-seg"]{border:2px solid var(--line);border-radius:22px;padding:5px;background:var(--card)}
+[class*="st-key-ns-seg"] .stButton>button{border:0!important;box-shadow:none!important;background:transparent;border-radius:16px;font-weight:700;min-height:2.9rem}
+[class*="st-key-ns-seg"] [class*="st-key-tab-on"] .stButton>button{background:var(--brand)!important;color:var(--brand-ink)!important}
+[class*="st-key-ns-seg"] [class*="st-key-tab-on"] .stButton>button p{color:var(--brand-ink)!important}
+.stButton>button[kind="primary"],.stButton>button[data-testid="stBaseButton-primary"]{color:var(--brand-ink)!important}
+.stButton>button[kind="primary"] p,.stButton>button[data-testid="stBaseButton-primary"] p{color:var(--brand-ink)!important}
+[class*="st-key-tab-on"] .stButton>button{background:var(--brand);color:var(--brand-ink);border-color:var(--brand)}
+[class*="st-key-tab-on"] .stButton>button p{color:var(--brand-ink)!important}
+[class*="st-key-card-q"]{padding:22px 22px 14px;border-radius:30px}
+.pq-word{font-family:'Baloo 2','Baloo Chettan 2','Noto Sans Malayalam',sans-serif;font-weight:800;font-size:3.3rem;line-height:1.1;color:var(--ink);word-break:break-word}
+.pq-big{font-size:4.8rem;line-height:1.15;color:var(--ink);word-break:break-all}
+.pq-big.small{font-size:2.4rem}
+.pq-prompt{color:var(--muted);font-size:1.25rem;margin:8px 0 14px;line-height:1.4}
+.nk-hero small{display:block;padding-right:58px}
+.pq-prompt.main{color:var(--ink);font-weight:600;font-size:1.35rem}
+.pq-toprow{display:flex;align-items:center;justify-content:center;min-height:3rem}
+.pq-pill{border:2px solid var(--line);border-radius:99px;padding:6px 14px;color:var(--muted);font-size:.95rem;white-space:nowrap;background:var(--card);display:inline-block}
+.pq-bar{background:var(--card);border:2px solid var(--line);border-radius:20px;padding:16px 18px;font-weight:700;font-size:1.15rem;line-height:1.4}
+.nk-dots .nk-dot{background:transparent;border:3px solid var(--line);width:18px;height:18px}
+.nk-dots .nk-dot.on{background:var(--brand);border-color:var(--brand)}
+.nk-dots .nk-dot.cur{background:transparent;border-color:var(--ink)}
+[class*="-tile-"] .stButton>button{border-radius:26px;background:var(--card);box-shadow:none;border-width:2px}
+[class*="-tile-"] .stButton>button p{font-weight:700}
 """
 SIZE_CSS = {
-    "normal": ":root{--tile-h:5.6rem;--tile-e:2.4rem;--stack-h:3.4rem;--big:3.6rem}",
-    "large": ":root{--tile-h:7rem;--tile-e:3rem;--stack-h:4rem;--big:4.6rem}",
-    "huge": ":root{--tile-h:9rem;--tile-e:4.2rem;--stack-h:5rem;--big:6rem}.stButton>button p{font-size:1.2rem}",
+    "normal": ":root{--tile-h:7rem;--tile-e:3.2rem;--stack-h:3.4rem;--big:3.6rem}",
+    "large": ":root{--tile-h:9.5rem;--tile-e:4.4rem;--stack-h:4rem;--big:4.6rem}",
+    "huge": ":root{--tile-h:12rem;--tile-e:5.6rem;--stack-h:5rem;--big:6rem}.stButton>button p{font-size:1.2rem}",
 }
 CONTRAST_CSS = ":root{--line:#000;--ink:#000;--muted:#222}.stApp{--card:#FFFFFF}.stButton>button{border-width:4px!important;border-color:#000!important}[data-theme='dark'] .stButton>button{border-color:#fff!important}"
 CALM_CSS = ".nk-pop{animation:none!important}[class*='glow-'] .stButton>button{animation:none!important}"
@@ -2086,22 +2128,48 @@ def level_buttons(current, on_pick, prefix):
                     st.button(PK(lv["en"], lv["ml"]), key=f"{prefix}-{lv['id']}", on_click=on_pick, args=(lv["id"],))
 
 
-def topbar():
+def set_lang(l):
     ss = st.session_state
+    ss.lang = l
+    save_settings()
+
+
+def set_mode(m):
+    go("parent" if m == "teacher" else "learn")
+
+
+def brand():
+    md('<div class="pq-brand"><div class="pq-icon">🌱</div><div><div class="pq-name">Pyqoo Easy</div>'
+       f'<div class="pq-tag">{esc(T("Picture-first learning at your own speed"))}</div></div></div>')
+
+
+def topbar(compact=False, modes=True):
+    ss = st.session_state
+    brand()
+    if modes and not compact:
+        cur = "teacher" if ss.page == "parent" else "learner"
+        with st.container(key="ns-seg-mode"):
+            cols = st.columns(2)
+            for col, (val, label) in zip(cols, [("learner", T("Learner")), ("teacher", T("Teacher or parent"))]):
+                with col:
+                    with st.container(key=f"{'tab-on' if val == cur else 'tab'}-mode-{val}"):
+                        st.button(label, key=f"mode-{val}", on_click=set_mode, args=(val,))
     with st.container(key="ns-top"):
-        c1, c2, c3 = st.columns([2.1, 1.25, 1.1])
+        c1, c2 = st.columns([2.2, 1])
         with c1:
-            md('<div class="nk-row"><span style="font-size:1.8rem">🦉</span><div><div class="nk-title" style="font-size:1.1rem;white-space:nowrap">Pyqoo Easy</div>'
-               f'<div class="nk-sub" style="margin:0;white-space:nowrap">{esc(T("one step at a time"))}</div></div></div>')
+            with st.container(key="ns-seg-lang"):
+                cc = st.columns(2)
+                for col, (val, label) in zip(cc, [("en", "English"), ("ml", "മലയാളം")]):
+                    with col:
+                        with st.container(key=f"{'tab-on' if ss.lang == val else 'tab'}-lang-{val}"):
+                            st.button(label, key=f"lang-{val}", on_click=set_lang, args=(val,))
         with c2:
-            st.button("English" if ss.lang == "ml" else "മലയാളം", key="lang-btn", on_click=toggle_lang)
-        with c3:
             st.button(T(THEME_LABEL[ss.theme]), key="theme-btn", on_click=cycle_theme)
 
 
 def nav():
     ss = st.session_state
-    items = [("learn", "🎒 Learn"), ("mix", "🎯 Review"), ("rewards", "🌻 Garden"), ("parent", "👪 Parent")]
+    items = [("learn", "🎒 Lessons"), ("mix", "🎯 Review"), ("rewards", "🌻 Garden")]
     with st.container(key="ns-nav"):
         cols = st.columns(len(items))
         for col, (pid, label) in zip(cols, items):
@@ -2222,13 +2290,13 @@ def exit_lesson():
 def lesson_view():
     ss = st.session_state
     l = lesson_by_id(ss.lesson)
-    with st.container(key="ns-lhead"):
-        c1, c2 = st.columns([1, 3])
-        with c1:
-            st.button("✕", key="exit", on_click=exit_lesson)
-        with c2:
-            md(f'<div class="nk-title" style="padding-top:6px">{l["art"]} {esc(L(l, "title"))}</div>')
     if ss.stage == "story":
+        with st.container(key="ns-lhead"):
+            c1, c2 = st.columns([1.3, 2.7])
+            with c1:
+                st.button(T("← Home"), key="exit", on_click=exit_lesson)
+            with c2:
+                md(f'<div class="nk-title" style="padding-top:6px">{l["art"]} {esc(L(l, "title"))}</div>')
         story_view(l)
     else:
         quiz_view(l)
@@ -2249,6 +2317,11 @@ def story_view(l):
     st.button(T("Skip"), key="story-skip", on_click=skip_story)
 
 
+INSTR_LOOK = "Listen, then tap the picture."
+INSTR_ANS = "Look, then tap the answer."
+INSTR_THINK = "Think, then tap the answer."
+
+
 def quiz_view(l=None):
     ss = st.session_state
     qz = ss.quiz
@@ -2261,25 +2334,45 @@ def quiz_view(l=None):
     ent = ensure_opts(qz)
     q = ent["q"]
     opts, right = ent["opts"], ent["right"]
-    p = prefs()
-    show_words = p["show_words"]
-    md(ui.dots(qz["i"], qz["i"], n))
-    md(f'<div class="nk-sub" style="text-align:center">{esc(T("Question {i} of {n}", i=qz["i"] + 1, n=n))}</div>')
-    if q.get("photo"):
-        show_img(base64.b64decode(q["photo"]))
-    elif q["big"]:
-        small = " small" if len(q["big"]) > 14 else ""
-        md(f'<div class="nk-big-pic{small}">{esc(q["big"])}</div>')
-    md(f'<div class="nk-qtext">{esc(q_text(q))}</div>')
-    listen_row(q["en"], q["ml"])
+    show_words = prefs()["show_words"]
+    kind = q["kind"]
+    stack = kind in ("life", "name", "photo")
+    picture_choices = not stack
+    # top row: back, progress dots, number of choices
+    with st.container(key="ns-qhead"):
+        c1, c2, c3 = st.columns([1.5, 2, 1.5])
+        with c1:
+            st.button(T("← Home"), key="exit", on_click=exit_lesson)
+        with c2:
+            md(f'<div class="pq-toprow">{ui.dots(qz["i"], qz["i"], n)}</div>')
+        with c3:
+            word = T("{n} pictures", n=len(opts)) if picture_choices else T("{n} choices", n=len(opts))
+            md(f'<div class="pq-toprow" style="justify-content:flex-end"><span class="pq-pill">{esc(word)}</span></div>')
+    # big card: the word, the picture, or the photo, then the question and Listen
+    with st.container(key="card-q"):
+        if q.get("photo"):
+            show_img(base64.b64decode(q["photo"]))
+            md(f'<div class="pq-prompt main">{esc(q_text(q))}</div>')
+        elif kind == "find":
+            target = opts[right]
+            word = q["big"] if q["big"] else PK(target["en"], target["ml"])
+            md(f'<div class="pq-word">{esc(word)}</div><div class="pq-prompt">{esc(q_text(q))}</div>')
+        elif q["big"]:
+            small = " small" if len(q["big"]) > 14 else ""
+            md(f'<div class="pq-big{small}">{esc(q["big"])}</div><div class="pq-prompt main">{esc(q_text(q))}</div>')
+        else:
+            md(f'<div class="pq-prompt main" style="font-size:1.6rem">{esc(q_text(q))}</div>')
+        listen_row(q["en"], q["ml"])
     glow = glow_now(qz, ent) and not qz["answered"]
-    mode = "more" if q["kind"] == "more" else q["mode"]
-    stack = q["kind"] in ("life", "name", "photo")
+    mode = "more" if kind == "more" else q["mode"]
     labels = []
     for o in opts:
-        lab = opt_label(o, mode, show_words)
-        if q["kind"] == "life":
+        if kind == "life":
             lab = (o["e"] + "  " if o["e"] else "") + PK(o["en"], o["ml"])
+        elif kind == "find" and o["e"]:
+            lab = o["e"]                       # picture only: the word is in the card above
+        else:
+            lab = opt_label(o, mode, show_words)
         labels.append(lab)
 
     def state_of(oi):
@@ -2293,8 +2386,8 @@ def quiz_view(l=None):
 
     def render(oi):
         state = state_of(oi)
-        kind = "stack" if stack else "tile"
-        with st.container(key=f"{state}-{kind}-q{qz['i']}-{oi}"):
+        tk = "stack" if stack else "tile"
+        with st.container(key=f"{state}-{tk}-q{qz['i']}-{oi}"):
             st.button(labels[oi], key=f"q{qz['i']}-o{oi}", on_click=pick_ans, args=(oi,), disabled=qz["answered"] or oi in qz["wrong"])
 
     if stack:
@@ -2318,6 +2411,9 @@ def quiz_view(l=None):
     elif qz["wrong"]:
         msg = T("Nice try! Look again. The glowing one is a good choice.") if glow_now(qz, ent) else T("Nice try! Look again.")
         md(f'<div class="nk-fb hint">{esc(msg)}</div>')
+    else:
+        instr = INSTR_LOOK if kind in ("find", "odd", "more") else (INSTR_THINK if kind == "life" else INSTR_ANS)
+        md(f'<div class="pq-bar">{esc(T(instr))}</div>')
 
 
 def result_view(l):
@@ -2503,16 +2599,18 @@ def main():
     ss = st.session_state
     ui.inject(ss.theme, ss.lang, prefs())
     if ss.P is None:
-        topbar()
+        topbar(modes=False)
         onboarding()
         return
     tick()
     if ss.lesson:
+        topbar(compact=True)
         lesson_view()
         footer()
         return
     topbar()
-    nav()
+    if ss.page != "parent":
+        nav()
     {"learn": learn, "mix": mix_view, "rewards": rewards_view, "parent": parent_view}[ss.page]()
     footer()
 
